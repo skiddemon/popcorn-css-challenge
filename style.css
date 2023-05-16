@@ -3,3 +3,19 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+headerBkg {
+    color: #FFDBAA
+}
+
+headerTxt {
+    color: #553100
+}
+
+mainBkg {
+    color: #D4A76A
+}
+
+button {
+    color: #805215
+}
